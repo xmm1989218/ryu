@@ -15,7 +15,7 @@
 // is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
 // KIND, either express or implied.
 
-// merge from https://github.com/ulfjack/ryu.git
+// merge from https://github.com/ulfjack/ryu.git 8e09e49bade7e94743555e333ba743c5cedaffb8
 
 #ifndef RYU_H
 #define RYU_H
